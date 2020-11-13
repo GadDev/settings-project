@@ -1,5 +1,6 @@
 ## Settings project
 
+
 **Airbnb + Prettier + Eslint / Husky + Lint-Staged**
 
 From your command line, install these dev-dependencies:
